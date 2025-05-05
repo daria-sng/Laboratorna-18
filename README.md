@@ -7,3 +7,4 @@
 
 Дано масиви x (n елементів) та y (m елементів). Обчислити 
 
+![Image](https://github.com/daria-sng/Laboratorna-18/blob/main/task2.png)
